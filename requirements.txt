@@ -1,1 +1,4 @@
 ezdxf
+PySide6
+Pillow
+google-generativeai
